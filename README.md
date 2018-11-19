@@ -1,2 +1,2 @@
 # OS-Project
-This is a f
+This is an extremely basic OS I am working on in my computer science class.
